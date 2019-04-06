@@ -4,9 +4,9 @@ import Document from './Components/Document/Document'
 import Shall from './Components/Field/Shall';
 import Will from './Components/Field/Will';
 import Header from './Components/Field/Header'
-import About from './Components/About/About';
-import Services from './Components/Services/Services'
-import { Route, Link, Switch } from 'react-router-dom';
+// import About from './Components/About/About';
+// import Services from './Components/Services/Services'
+// import { Route, Link, Switch } from 'react-router-dom';
 
 
 
