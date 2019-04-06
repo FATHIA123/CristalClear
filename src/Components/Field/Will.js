@@ -6,7 +6,7 @@ class Will extends Component {
         return (
             <div>
             <div className="component">
-                
+            <h3>Will's </h3>
             </div>
             </div>
         );

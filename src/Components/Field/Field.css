@@ -1,6 +1,14 @@
 .component {
 
-height: 300px;
+height: 500px;
 width: 600px;
 border: 1px solid black;
 }
+
+h3{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+
+}
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
