@@ -23,6 +23,7 @@ class App extends Component {
                       <li><a href="/">Home</a></li>
                       <li><a href="/About">About</a></li>
                      <li><a href="/Services">Services</a></li>
+                     <li><a href="https://docs.google.com/presentation/d/1VhoVrU5wMmxSE0p8kzFDP4GHApx0L7snZG4wsTwN-X4/edit#slide=id.g559a9d1339_0_10">Presentation</a></li>
                   </ul>   
             </nav>
       </header>
