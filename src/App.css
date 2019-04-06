@@ -1,3 +1,8 @@
+body{
+  background: #ccccb3;
+
+}
+
 .menu-area li a {
   text-decoration: none;
 }
@@ -80,3 +85,10 @@ nav:after {
 }
 
 /* https://codepen.io/divinector/pen/qgZKYQ?editors=1100 */
+
+main {
+  margin: auto;
+  height: 100%;
+  padding: 150px;
+  padding-left: 15rem;
+}
